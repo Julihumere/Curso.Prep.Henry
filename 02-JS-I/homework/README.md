@@ -4,11 +4,12 @@
 ---
 1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
 
-	* Variables
-	* Strings
-	* Funciones (argumentos, `return`)
-	* Declaraciones `if`
-	* Valores booleanos (`true`, `false`)
+	* Variables: es una forma de almacenar el valor de algo que usare mas tarde.
+	* Strings: son textos que se definen entre comillas
+	* Funciones (argumentos, `return`): son objetos invocables 
+	* Declaraciones `if`: se lo utiliza para realizar una condicion 
+	* Valores booleanos (`true`, `false`): son valores que unicamente tienen como respuestas verdadero o falso
+
 
 
 2. Instalar Node y NPM. NPM se incluye con Node. https://nodejs.org/en/download/
